@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppTarefas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="descricao_hint">Descricao</string>
+	<string name="local_hint">Local</string>
+	<string name="data_hint">Data</string>
+	<string name="tarefas_hint">Tarefas</string>
+	<string name="insere_botao">Insere</string>
+	<string name="apaga_botao">Apaga</string>
+	<string name="consulta_botao">Consulta</string>
+</resources>
